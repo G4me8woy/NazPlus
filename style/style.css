@@ -16,8 +16,8 @@
 
 .head-text .company-name {
   font-family: "Roboto", sans-serif;
-  font-size: 50px;
-  line-height: 40px;
+  font-size: 35px;
+  line-height: 25px;
   font-weight: 900px;
 }
 
@@ -26,7 +26,7 @@
   background: #126DE2;
   color: white;
   width: 100%;
-  padding: 10px 0;
+  padding: 5px 0;
 }
 
 .hamburger {
